@@ -1,7 +1,7 @@
 # Advanced_pandas
 #### Detailed Analysis with Pandas
-## koalas
-## Pyspark
+### koalas
+### Pyspark
 ## Dask 
 ## GeoPandas
 ## Pandas-Profiling
@@ -10,4 +10,4 @@
 ## Merging DataFrames
 ## Reshaping Dataframes
 ## Transform your data with groupby
-## Apply, Map, and Applymap in Pandas 
+## `Apply`, `Map`, and `Applymap` in Pandas
